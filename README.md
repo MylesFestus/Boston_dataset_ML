@@ -25,7 +25,7 @@ This project applies a comprehensive machine learning pipeline to the Boston Hou
 ## 🎯 Objectives
 
 - Perform Exploratory Data Analysis (EDA)
-- Preprocess data (scaling + train-test split)
+- Data Preprocessing (scaling + train-test split)
 - Train 5 regression models:
   - Linear Regression
   - Ridge Regression
