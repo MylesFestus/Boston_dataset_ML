@@ -39,7 +39,6 @@ This project applies a comprehensive machine learning pipeline to the Boston Hou
   - Cross-validation
 - Identify key predictive features
 - Generate insights and visualizations
-
 ---
 
 ## 📌 Target Variable (MEDV)
@@ -48,7 +47,6 @@ This project applies a comprehensive machine learning pipeline to the Boston Hou
 - Mean: ~$22,530  
 - Distribution: Right-skewed  
 - Interpretation: Median value of owner-occupied homes
-
 ---
 
 ## 📊 Exploratory Data Analysis
@@ -75,7 +73,6 @@ This project applies a comprehensive machine learning pipeline to the Boston Hou
 - Train-test split: 80/20 (404 / 102 samples)
 - Feature scaling: StandardScaler
 - Prevented data leakage (fit only on training data)
-
 ---
 
 ## 🤖 Models Used
@@ -111,7 +108,6 @@ This project applies a comprehensive machine learning pipeline to the Boston Hou
 | Linear Regression | 0.6894 | 4.773 | 3.111 |
 | Ridge Regression  | 0.6889 | 4.776 | 3.107 |
 | Lasso Regression  | 0.6671 | 4.941 | 3.168 |
-
 ---
 
 ## 🔁 Cross-Validation Results
@@ -122,7 +118,6 @@ This project applies a comprehensive machine learning pipeline to the Boston Hou
 
 ✔ No overfitting detected  
 ✔ Stable model performance across folds  
-
 ---
 
 ## 🔍 Feature Importance
