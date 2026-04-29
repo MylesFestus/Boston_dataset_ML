@@ -3,13 +3,11 @@
 ## Machine Learning Analysis Project
 
 ### Predicting Median Home Values Using Regression Models
-
 ---
 
 ## 📊 Project Overview
 
 This project applies a comprehensive machine learning pipeline to the Boston Housing dataset to predict the median value of owner-occupied homes (MEDV, in $1,000s). Five regression models were trained, evaluated, and compared — ranging from linear models to advanced ensemble methods.
-
 ---
 
 ## 📁 Dataset Summary
@@ -19,7 +17,6 @@ This project applies a comprehensive machine learning pipeline to the Boston Hou
 - **Features:** 12 input variables  
 - **Task:** Supervised Regression  
 - **Target:** MEDV (Median home value in $1,000s)
-
 ---
 
 ## 🎯 Objectives
@@ -64,7 +61,6 @@ This project applies a comprehensive machine learning pipeline to the Boston Hou
 - **INDUS:** -0.484
 - **TAX:** -0.469
 - **NOX:** -0.427
-
 ---
 
 ## ⚙️ Data Preprocessing
@@ -85,7 +81,6 @@ This project applies a comprehensive machine learning pipeline to the Boston Hou
 ### Ensemble Models
 - Random Forest (100 trees, bagging)
 - Gradient Boosting (100 trees, boosting)
-
 ---
 
 ## 📏 Evaluation Metrics
@@ -131,7 +126,6 @@ Top predictors:
 - Others (PTRATIO, TAX, NOX, AGE): <2% each
 
 👉 RM + LSTAT account for **81%+ of predictive power**
-
 ---
 
 ## 🧠 Key Insights
@@ -151,7 +145,6 @@ Top predictors:
 - 💡 Key predictors: RM & LSTAT
 - ⚖️ Linear models are limited by non-linearity
 - ✔ Models generalize well (validated via CV)
-
 ---
 
 ## 🚀 Recommendation
@@ -160,7 +153,6 @@ Use **Gradient Boosting** for deployment due to:
 - Highest accuracy
 - Stable cross-validation performance
 - Strong interpretability via feature importance
-
 ---
 
 ## 📦 Project Deliverables
@@ -171,7 +163,6 @@ Use **Gradient Boosting** for deployment due to:
 - ✔ 8 publication-quality plots  
 - ✔ Full Python implementation  
 - ✔ This report  
-
 ---
 
 ## 📌 Executive Summary
@@ -182,5 +173,4 @@ Use **Gradient Boosting** for deployment due to:
 - **Second Feature:** LSTAT (31.3%)  
 - **Best Approach:** Ensemble learning  
 - **Outcome:** Strong predictive performance with stable generalization  
-
 ---
