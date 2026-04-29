@@ -7,7 +7,7 @@
 
 ## 📊 Project Overview
 
-This project applies a comprehensive machine learning pipeline to the Boston Housing dataset to predict the median value of owner-occupied homes (MEDV, in $1,000s). Five regression models were trained, evaluated, and compared — ranging from linear models to advanced ensemble methods.
+**This project applies a comprehensive machine learning pipeline to the Boston Housing dataset to predict the median value of owner-occupied homes (MEDV, in $1,000s). Five regression models were trained, evaluated, and compared — ranging from linear models to advanced ensemble methods.**
 ---
 
 ## 📁 Dataset Summary
