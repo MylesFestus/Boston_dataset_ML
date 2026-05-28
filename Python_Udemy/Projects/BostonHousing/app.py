@@ -5,7 +5,7 @@ import pandas as pd
 
 app=Flask(__name__)
 ## Load the best model
-model=pickle.load(open('best_model.pkl','rb'))
+model=pickle.load(open('model.pkl','rb'))
 scalar=pickle.load(open('scaling.pkl','rb'))
 
 @app.route('/')
