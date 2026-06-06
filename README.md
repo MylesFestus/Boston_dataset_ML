@@ -5,7 +5,11 @@ An end-to-end Machine Learning project that predicts Boston housing prices based
 ---
 
 ---
-### Live Demo [https://bostonhousingapp-3326ffdc7187.herokuapp.com]
+
+##  Live Demo
+
+**App URL:** [https://bostonhousingapp-3326ffdc7187.herokuapp.com]
+
 ---
 
 # Project Overview
