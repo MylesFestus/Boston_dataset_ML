@@ -1,9 +1,6 @@
 
 <h1 align="center">Boston Housing Price Prediction</h1>
 
-
-# Boston Housing Price Prediction
-
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?logo=streamlit)](https://streamlit.io)
 [![Docker](https://img.shields.io/badge/Docker-Containerised-blue?logo=docker)](https://docker.com)
