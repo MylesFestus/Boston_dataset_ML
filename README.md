@@ -1,10 +1,6 @@
 
 <h1 align="center">Boston Housing Price Prediction</h1>
-<p align="center">
-  <strong>Data Cleaning • Exploratory Data Analysis (EDA) • MySQL</strong><br><br>
-   <strong>Mini Project:</strong> World Tech Layoffs Dataset (2019–2022)<br>
-   <strong>Dataset:</strong> <a href="https://www.kaggle.com/datasets/swaptr/layoffs-2022" target="_blank">Kaggle – Layoffs 2022</a>
-</p>
+
 
 # Boston Housing Price Prediction
 
