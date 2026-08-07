@@ -124,9 +124,7 @@ Boston-Housing-Project/
 
 ---
 
-# Exploratory Data Analysis
-
-EDA was performed to understand:
+# Exploratory Data Analysis (EDA)
 
 - Feature distributions
 - Missing values
