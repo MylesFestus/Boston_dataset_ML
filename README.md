@@ -1,12 +1,25 @@
 
 <h1 align="center">Boston Housing Price Prediction</h1>
-
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?logo=streamlit)](https://streamlit.io)
-[![Docker](https://img.shields.io/badge/Docker-Containerised-blue?logo=docker)](https://docker.com)
-[![Heroku](https://img.shields.io/badge/Heroku-Deployed-purple?logo=heroku)](https://heroku.com)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-green?logo=github-actions)](https://github.com/features/actions)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+<p align="center">
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python">
+  </a>
+  <a href="https://streamlit.io">
+    <img src="https://img.shields.io/badge/Streamlit-1.32-red?logo=streamlit" alt="Streamlit">
+  </a>
+  <a href="https://docker.com">
+    <img src="https://img.shields.io/badge/Docker-Containerised-blue?logo=docker" alt="Docker">
+  </a>
+  <a href="https://heroku.com">
+    <img src="https://img.shields.io/badge/Heroku-Deployed-purple?logo=heroku" alt="Heroku">
+  </a>
+  <a href="https://github.com/features/actions">
+    <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-green?logo=github-actions" alt="CI/CD">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
+  </a>
+</p>
 
 An end-to-end Machine Learning project that predicts Boston housing prices based on neighborhood and property characteristics. The project demonstrates the complete ML lifecycle, including data preprocessing, model training, evaluation, deployment on Heroku, data validation, monitoring, and MLOps best practices.
 
