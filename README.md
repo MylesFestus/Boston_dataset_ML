@@ -1,5 +1,12 @@
 # Boston Housing Price Prediction
 
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?logo=streamlit)](https://streamlit.io)
+[![Docker](https://img.shields.io/badge/Docker-Containerised-blue?logo=docker)](https://docker.com)
+[![Heroku](https://img.shields.io/badge/Heroku-Deployed-purple?logo=heroku)](https://heroku.com)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-green?logo=github-actions)](https://github.com/features/actions)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
 An end-to-end Machine Learning project that predicts Boston housing prices based on neighborhood and property characteristics. The project demonstrates the complete ML lifecycle, including data preprocessing, model training, evaluation, deployment on Heroku, data validation, monitoring, and MLOps best practices.
 
 ---
